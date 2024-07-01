@@ -1,0 +1,25 @@
+.principal{
+  background-color: #660000;
+  padding: 30px;
+}
+
+.titulo-centralizado{
+text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+.missao{
+  margin: 5px 40%;
+}
+em strong{
+  color: darkred;
+}
+
+ul {
+  display: inline-block; 
+  vertical-align: top;
+widt: 20%;
+}
